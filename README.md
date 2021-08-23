@@ -3,11 +3,10 @@
 </p>
 <h1>About Me 關於我:</h1>
 
+<p><img height="30" src="lang.png"></p>
+
 🎈 Contact 聯繫方式 [Discord Server](https://discord.gg/rGQzfv2Zud) `LAI#6043`
 
-<p>
-<h2><p><img height="30" src="lang.png"></p></h2>
-</P>
 <p>
 <h3>Projects 專案</h3>
 </p>
