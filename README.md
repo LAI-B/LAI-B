@@ -23,7 +23,7 @@
 			<td><a href="https://github.com/fosscord/fosscord">Easymc help page</a></td>
 			<td>A EastMC tutorials, and problem resolve</td>
 			<td>html css js</td>
-			<td><img width="16" height="16" src="png/file.png"></td>
+			<td><img height="16" src="png/file.png"></td>
 		</tr>
 	</tbody>
 </table>
