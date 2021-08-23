@@ -22,9 +22,7 @@
 			<td><a href="https://github.com/fosscord/fosscord">Easymc help page</a></td>
 			<td>A EastMC tutorials, and problem resolve</td>
 			<td>
-				<img width="10" height="10" src="png/file.png">
-				<img src="https://img.shields.io/github/contributors/fosscord/fosscord">
-				<img src="https://img.shields.io/github/stars/fosscord/fosscord">
+				<img width="16" height="16" src="png/file.png">
 			</td>
 		</tr>
 		<tr>
