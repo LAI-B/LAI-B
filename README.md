@@ -1,15 +1,9 @@
 <p align="center">    
     <img style="border-radius: 100px" width="128" height="128" src="LAI.png">
 </p>
-<h1 align="center">LAI</h1>
+<h1>About Me:</h1>
 
-<p align="center">    
-    <img src="">
-</p>
-
-🔭 I’m currently working on **[Fosscord](https://github.com/fosscord/fosscord)**
-
-📫 Contact [Twitter](https://twitter.com/Flam3rboy), [Reddit](https://www.reddit.com/user/flam3rboy), [Discord](https://discord.com/users/311129357362135041)`Flam3rboy#3490`
+🎈 Contact [Discord Server](https://discord.gg/rGQzfv2Zud) `LAI#6043`
 
 <p>
 <h2>Projects</h2>
@@ -20,15 +14,15 @@
 		<tr>
 		<th>Name</th>
 		<th>Description</th>
-		<th>Status</th>
+		<th>Language</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="https://github.com/fosscord/fosscord">Fosscord</a></td>
-			<td>Fosscord a free open source selfhostable chat, voice and video discord-compatible platform</td>
+			<td><a href="https://github.com/fosscord/fosscord">Easymc help page</a></td>
+			<td>A EastMC tutorials, and problem resolve</td>
 			<td>
-				<img src="https://img.shields.io/opencollective/all/fosscord">
+				<img width="10" height="10" src="png/file.png">
 				<img src="https://img.shields.io/github/contributors/fosscord/fosscord">
 				<img src="https://img.shields.io/github/stars/fosscord/fosscord">
 			</td>
