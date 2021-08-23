@@ -1,10 +1,10 @@
 <p align="center">    
-    <img style="border-radius: 100px" width="128" height="128" src="https://user-images.githubusercontent.com/34555296/https://avatars.githubusercontent.com/u/69414053?s=400&u=54582d89ad3445c1fce5a83847eb12d74e299124&v=4">
+    <img style="border-radius: 100px" width="128" height="128" src="https://github.com/LAI-B/LAI-B/blob/master/LAI.png">
 </p>
 <h1 align="center">LAI</h1>
 
 <p align="center">    
-    <img src="-">
+    <img src="">
 </p>
 
 🔭 I’m currently working on **[Fosscord](https://github.com/fosscord/fosscord)**
