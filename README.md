@@ -1,5 +1,5 @@
 <p align="center">    
-    <img style="border-radius: 100px" width="128" height="128" src="https://github.com/LAI-B/LAI-B/blob/master/LAI.png">
+    <img style="border-radius: 100px" width="128" height="128" src="LAI.png">
 </p>
 <h1 align="center">LAI</h1>
 
