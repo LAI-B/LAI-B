@@ -2,7 +2,7 @@
     <img style="border-radius: 100px" width="128" height="128" src="LAI.png">
 </p>
 <h1>About Me 關於我:</h1>
-<p><img height="20" src="png/coding.png"><img height="20" src="png/html.png"><img height="20" src="png/css.png"><img height="20" src="png/js.png"><img height="20" src="png/python.png"></p>
+<p><img height="20" src="lang.png"></p>
 🎈 Contact 聯繫方式 [Discord Server](https://discord.gg/rGQzfv2Zud) `LAI#6043`
 
 <p>
