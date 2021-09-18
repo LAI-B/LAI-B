@@ -16,6 +16,7 @@
 </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="PhotoShop" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/67/10/b7/6710b73f-962d-11eb-53f9-3a3c63205144/Resolve.png/1200x630bb.png" alt="PhotoShop" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="PhotoShop" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1030px-Visual_Studio_Icon_2019.svg.png" alt="PhotoShop" width="40" height="40"/> </a> 
 </p>
