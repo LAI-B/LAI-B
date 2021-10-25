@@ -1,4 +1,4 @@
-<h1 align="center">LAI</h1>
+<h1>LAI</h1>
 <h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://instagram.com/_laibc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_laibc" height="30" width="40" /></a>
